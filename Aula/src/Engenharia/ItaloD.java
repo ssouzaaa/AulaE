@@ -2,5 +2,6 @@ package Engenharia;
 
 public class ItaloD {
 
-	int idade = 20;
+	int idade = 1;
+	
 }
